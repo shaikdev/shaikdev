@@ -8,7 +8,7 @@ I'm a passionate **Full-Stack Developer** with a strong focus on building scalab
 
 **Frontend**  
 
-<span style="display:inline-block;margin-right:15px"><img width="75px" height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /></span>
+<span style="display:inline-block;margin-right:15px"><img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /></span>
 <span style="display:inline-block;margin-right:15px"><img width="75px" height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /></span>
 <span style="display:inline-block;margin-right:15px"><img width="75px" height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></span>
 <span style="display:inline-block;margin-right:15px"><img width="75px" height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></span>
