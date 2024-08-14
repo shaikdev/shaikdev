@@ -19,20 +19,20 @@ I'm a passionate **Full-Stack Developer** with a strong focus on building scalab
 <span style="display:inline-block;margin-right:15px"><img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></span>
 
 **Backend**  
-<span style="display:inline-block;margin-right:15px"><img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /></span>
-<span style="display:inline-block;margin-right:15px"><img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" /></span>
-<span style="display:inline-block;margin-right:15px"><img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" /></span>
-<span style="display:inline-block;margin-right:15px"><img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" /></span>
-<span style="display:inline-block;margin-right:15px"><img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" /></span>
+<span style="display:inline-block;margin-right:15px"><img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /></span>
+<span style="display:inline-block;margin-right:15px"><img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /></span>
+<span style="display:inline-block;margin-right:15px"><img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" /></span>
+<span style="display:inline-block;margin-right:15px"><img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /></span>
+<span style="display:inline-block;margin-right:15px"><img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" /></span>
 <span style="display:inline-block;margin-right:15px"><img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original-wordmark.svg" /></span>
 
 **Payment Integration**  
 <span style="display:inline-block;margin-right:15px"><img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white"/></span>
 
 **Tools & Others**  
-<span style="display:inline-block;margin-right:15px"><img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" /></span>
-<span style="display:inline-block;margin-right:15px"><img width="70px" height="70px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain-wordmark.svg" /></span>
-<span style="display:inline-block;margin-right:15px"><img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" /></span>
+<span style="display:inline-block;margin-right:15px"><img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  /></span>
+<span style="display:inline-block;margin-right:15px"><img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"  /></span>
+<span style="display:inline-block;margin-right:15px"><img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/></span>
 
 ---
 
