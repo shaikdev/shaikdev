@@ -20,7 +20,7 @@ I'm a passionate **Full-Stack Developer** with a strong focus on building scalab
 
 **Backend**  
 <span style="display:inline-block;margin-right:15px"><img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /></span>
-<span style="display:inline-block;margin-right:15px"><img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /></span>
+<span style="display:inline-block;margin-right:15px"><img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" /></span>
 <span style="display:inline-block;margin-right:15px"><img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" /></span>
 <span style="display:inline-block;margin-right:15px"><img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /></span>
 <span style="display:inline-block;margin-right:15px"><img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" /></span>
