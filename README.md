@@ -30,6 +30,7 @@ I'm a passionate **Full-Stack Developer** with a strong focus on building scalab
   <img width="70px" height="70px" src="https://res.cloudinary.com/dabocsuq6/image/upload/v1723630005/socket-io_mrc9vw.svg" />
 </div>
 
+
 **Tools & Others**  
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
   <img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
