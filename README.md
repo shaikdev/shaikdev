@@ -7,6 +7,7 @@ I'm a passionate **Full-Stack Developer** with a strong focus on building scalab
 #### 🛠️ My Tech Stack:
 
 **Frontend**  
+
 <span style="display:inline-block;margin-right:15px"><img width="75px" height="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /></span>
 <span style="display:inline-block;margin-right:15px"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></span>
 <span style="display:inline-block;margin-right:15px"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></span>
