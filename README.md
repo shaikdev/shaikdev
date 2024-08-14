@@ -22,6 +22,8 @@ I'm a passionate **Full-Stack Developer** with a strong focus on building scalab
 <span style="display:inline-block;margin-right:15px"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></span>
 <span style="display:inline-block;margin-right:15px"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></span>
 <span style="display:inline-block;margin-right:15px"><img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/></span>
+<span style="display:inline-block;margin-right:15px"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/></span>
+<span style="display:inline-block;margin-right:15px"><img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/></span>
 
 **Payment Integration**  
 <span style="display:inline-block;margin-right:15px"><img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white"/></span>
