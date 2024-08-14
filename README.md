@@ -54,10 +54,10 @@ I'm a passionate **Full-Stack Developer** with a strong focus on building scalab
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
   <div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikdev&layout=compact&theme=radical" alt="Top Languages" style="width: 48%;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikdev&layout=compact&theme=radical" alt="Top Languages" style="width: 38%;" />
   </div>
   <div>
-      <img src="https://github-readme-stats.vercel.app/api?username=shaikdev&show_icons=true&theme=radical" alt="Shaik Rahuman's GitHub Stats" style="width: 48%;" />
+      <img src="https://github-readme-stats.vercel.app/api?username=shaikdev&show_icons=true&theme=radical" alt="Shaik Rahuman's GitHub Stats" style="width: 38%;" />
   </div>
 
 </div>
