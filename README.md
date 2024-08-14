@@ -52,14 +52,15 @@ I'm a passionate **Full-Stack Developer** with a strong focus on building scalab
 
 #### 📊 My GitHub Stats:
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px;">
-  <div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikdev&layout=compact&theme=radical" alt="Top Languages" style="width: 38%;" />
-  </div>
-  <div>
-      <img src="https://github-readme-stats.vercel.app/api?username=shaikdev&show_icons=true&theme=radical" alt="Shaik Rahuman's GitHub Stats" style="width: 38%;" />
-  </div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikdev&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shaikdev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaikdev&theme=radical" alt="Profile Summary" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikdev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 45%;" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=shaikdev&theme=radical&hide_border=true" alt="Contributions" style="width: 45%;" />
 </div>
 
 #### 🌐 Let's Connect:
