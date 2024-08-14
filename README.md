@@ -53,5 +53,5 @@ I'm a passionate **Full-Stack Developer** with a strong focus on building scalab
 
 #### 🌐 Let's Connect:
 <a href="https://www.linkedin.com/in/shaik-rahuman-76a0941b9/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+  <img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </a>
