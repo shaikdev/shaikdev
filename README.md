@@ -26,7 +26,7 @@ I'm a passionate **Full-Stack Developer** with a strong focus on building scalab
   <img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
   <img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
   <img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
-  <img width="70px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original-wordmark.svg" />
+  <img width="70px" height="70px" src="https://res.cloudinary.com/dabocsuq6/image/upload/v1723630005/socket-io_mrc9vw.svg" />
 </div>
 
 **Payment Integration**  
