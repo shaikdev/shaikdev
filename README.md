@@ -31,7 +31,7 @@ I'm a passionate **Full-Stack Developer** with a strong focus on building scalab
 
 **Payment Integration**  
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-  <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white"/>
+  <img width="70px" height="70px" src="https://res.cloudinary.com/dabocsuq6/image/upload/v1723629443/razorpay_opyqfr.png"/>
 </div>
 
 **Tools & Others**  
