@@ -52,8 +52,8 @@ I'm a passionate **Full-Stack Developer** with a strong focus on building scalab
 
 #### 📊 My GitHub Stats:
 
-![Shaik Rahuman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaik-rahuman&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaik-rahuman&layout=compact&theme=radical)
+![Shaik Rahuman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaikdev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikdev&layout=compact&theme=radical)
 
 #### 🌐 Let's Connect:
 <a href="https://www.linkedin.com/in/shaik-rahuman-76a0941b9/" target="_blank">
